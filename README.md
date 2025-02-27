@@ -1,4 +1,4 @@
-# Exercicios de Logica
+# Exercicios de Lógica
 
 ### Estes são arquivos de exercicio de lógica, feitos durante o programa trilhas.
 
